@@ -1,0 +1,27 @@
+body{
+	margin: 0 auto 0 auto;
+
+}
+.container{
+	max-width: 700px;
+	background: #ddd;
+	color:#414141;
+	margin: 0 auto 0 auto;
+	padding: 10px;
+}
+h1,h2,h3{
+	color:red;
+}
+.para-section p{
+	color:#414141;
+}
+.head-section
+{
+	text-align: center;
+	color: blue;
+}
+.para-section
+{
+	font-size: 20px;
+	font-style: italic;
+}
